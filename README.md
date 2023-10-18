@@ -1,4 +1,4 @@
-# snacke-Console-cpp
+# snake-Console-cpp
 # لعبة Snake بلغة C++
 
 ![Snake Game](snake_game_screenshot.png)
